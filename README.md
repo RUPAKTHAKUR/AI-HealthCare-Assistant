@@ -158,7 +158,7 @@ ai-healthcare-assistant/
 ⚙️ Installation and Setup -
 
 1️⃣ Clone Repository
-git clone https://github.com/your-username/ai-healthcare-assistant-rag.git
+git clone https://github.com/RUPAKTHAKUR/AI-HealthCare-Assistant/
 cd ai-healthcare-assistant-rag
 
 2️⃣ Install Frontend Dependencies
